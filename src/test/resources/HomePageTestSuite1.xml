@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="HomePageTestSuite1" parallel="false" verbose="1">
+	<parameter name="browser" value="chrome" />
+
+	<test name="CheckLanguages">
+		<classes>
+			<class name="shop.automation.homepage.LoginHomePage">
+			</class>
+		</classes>
+
+	</test>
+
+</suite>

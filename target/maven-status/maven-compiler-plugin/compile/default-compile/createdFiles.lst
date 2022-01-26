@@ -1,0 +1,7 @@
+shop\automation\homepage\constants\CoreConstants.class
+shop\automation\homepage\common\CommonMethods.class
+shop\automation\homepage\constants\HomePageConstants.class
+shop\automation\homepage\base\BaseHomeTest.class
+shop\automation\homepage\common\LoginMethods.class
+shop\automation\homepage\constants\LoginConstants.class
+shop\automation\homepage\core\CoreConstants.class

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="16" passed="16" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-25T19:25:05Z" name="HomePageTestSuite1" finished-at="2022-01-25T19:25:14Z" duration-ms="9173">
+    <groups>
+    </groups>
+    <test started-at="2022-01-25T19:25:05Z" name="CheckLanguages" finished-at="2022-01-25T19:25:14Z" duration-ms="9173">
+      <class name="shop.automation.homepage.LoginHomePage">
+        <test-method is-config="true" signature="setUpBeforeTestMethod(java.lang.String)[pri:0, instance:shop.automation.homepage.LoginHomePage@7ee8290b]" started-at="2022-01-25T19:25:05Z" name="setUpBeforeTestMethod" finished-at="2022-01-25T19:25:09Z" duration-ms="3647" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTestMethod -->
+        <test-method signature="goToLoginPage()[pri:1, instance:shop.automation.homepage.LoginHomePage@7ee8290b]" started-at="2022-01-25T19:25:09Z" name="goToLoginPage" finished-at="2022-01-25T19:25:09Z" duration-ms="113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToLoginPage -->
+        <test-method signature="enterCredentials()[pri:2, instance:shop.automation.homepage.LoginHomePage@7ee8290b]" started-at="2022-01-25T19:25:09Z" name="enterCredentials" finished-at="2022-01-25T19:25:10Z" duration-ms="564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterCredentials -->
+        <test-method signature="clickLoginButton()[pri:3, instance:shop.automation.homepage.LoginHomePage@7ee8290b]" started-at="2022-01-25T19:25:10Z" name="clickLoginButton" finished-at="2022-01-25T19:25:10Z" duration-ms="270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickLoginButton -->
+        <test-method signature="checkMarketPage()[pri:4, instance:shop.automation.homepage.LoginHomePage@7ee8290b]" started-at="2022-01-25T19:25:10Z" name="checkMarketPage" finished-at="2022-01-25T19:25:10Z" duration-ms="418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkMarketPage -->
+        <test-method signature="checkCart()[pri:5, instance:shop.automation.homepage.LoginHomePage@7ee8290b]" started-at="2022-01-25T19:25:10Z" name="checkCart" finished-at="2022-01-25T19:25:10Z" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCart -->
+        <test-method signature="checkMarketPage1()[pri:6, instance:shop.automation.homepage.LoginHomePage@7ee8290b]" started-at="2022-01-25T19:25:10Z" name="checkMarketPage1" finished-at="2022-01-25T19:25:11Z" duration-ms="253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkMarketPage1 -->
+        <test-method signature="checkCart1()[pri:7, instance:shop.automation.homepage.LoginHomePage@7ee8290b]" started-at="2022-01-25T19:25:11Z" name="checkCart1" finished-at="2022-01-25T19:25:11Z" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCart1 -->
+        <test-method signature="checkMarketPage2()[pri:8, instance:shop.automation.homepage.LoginHomePage@7ee8290b]" started-at="2022-01-25T19:25:11Z" name="checkMarketPage2" finished-at="2022-01-25T19:25:11Z" duration-ms="246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkMarketPage2 -->
+        <test-method signature="checkCart2()[pri:9, instance:shop.automation.homepage.LoginHomePage@7ee8290b]" started-at="2022-01-25T19:25:11Z" name="checkCart2" finished-at="2022-01-25T19:25:11Z" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCart2 -->
+        <test-method signature="goToCart()[pri:10, instance:shop.automation.homepage.LoginHomePage@7ee8290b]" started-at="2022-01-25T19:25:11Z" name="goToCart" finished-at="2022-01-25T19:25:11Z" duration-ms="258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToCart -->
+        <test-method signature="goToCart1()[pri:11, instance:shop.automation.homepage.LoginHomePage@7ee8290b]" started-at="2022-01-25T19:25:11Z" name="goToCart1" finished-at="2022-01-25T19:25:12Z" duration-ms="110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToCart1 -->
+        <test-method signature="goToCheckout()[pri:12, instance:shop.automation.homepage.LoginHomePage@7ee8290b]" started-at="2022-01-25T19:25:12Z" name="goToCheckout" finished-at="2022-01-25T19:25:12Z" duration-ms="279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToCheckout -->
+        <test-method signature="filedForm()[pri:13, instance:shop.automation.homepage.LoginHomePage@7ee8290b]" started-at="2022-01-25T19:25:12Z" name="filedForm" finished-at="2022-01-25T19:25:13Z" duration-ms="928" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filedForm -->
+        <test-method signature="goToCart2()[pri:14, instance:shop.automation.homepage.LoginHomePage@7ee8290b]" started-at="2022-01-25T19:25:13Z" name="goToCart2" finished-at="2022-01-25T19:25:13Z" duration-ms="100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToCart2 -->
+        <test-method signature="goToLast()[pri:15, instance:shop.automation.homepage.LoginHomePage@7ee8290b]" started-at="2022-01-25T19:25:13Z" name="goToLast" finished-at="2022-01-25T19:25:13Z" duration-ms="333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToLast -->
+        <test-method signature="goToFirst()[pri:16, instance:shop.automation.homepage.LoginHomePage@7ee8290b]" started-at="2022-01-25T19:25:13Z" name="goToFirst" finished-at="2022-01-25T19:25:14Z" duration-ms="513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToFirst -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:shop.automation.homepage.LoginHomePage@7ee8290b]" started-at="2022-01-25T19:25:14Z" name="tearDownAfterTestMethod" finished-at="2022-01-25T19:25:14Z" duration-ms="789" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- shop.automation.homepage.LoginHomePage -->
+    </test> <!-- CheckLanguages -->
+  </suite> <!-- HomePageTestSuite1 -->
+</testng-results>
